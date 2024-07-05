@@ -695,7 +695,6 @@ import java.io.*;
                             	//No break is needed in the default case
                     	        System.out.println("Please enter a valid option! ");
                         	    System.out.println("The options you can choose are from 1 to 6. ");
-                            
 				}
 			}
 			

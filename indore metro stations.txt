@@ -1,0 +1,62 @@
+INDORE METRO LINE
+LINE-1A: Sri Aurobindo Hospital - Collectorate office - Indore Bypass 1
+LINE-1B: Sri Aurobindo Hospital - Collectorate office - Regional Park(1B)
+LINE-2: Dewas Naka - Juni Indore - MHOW
+LINE-3: Yellow Line(Bhawarsala Square - Super Corridor 1)
+LINE-4:MR9-Indore Railway Station - Indore Bypass 4
+
+Indore Metro Line-1A:
+
+Sri Aurobindo Hospital.
+Bhawarsala Square.
+Sanwer Industrial Area.
+Ganesh Sham Colony.
+Banganga.
+Laxmibai Nagar Square.
+Mara Mata Square.
+Imli Bazar Chowk,
+Rajwada Palace
+Collectorate office
+Indore Occhapur Rail Crossing
+Tower Square
+Bhawarkuan Square
+Holkar university/IT Park
+Rani Bagh
+Limbodi
+Ralamandal
+Indore Bypass 1
+
+Indore Metro Line-1B:
+Sri Aurobindo Hospital - Collectorate office - Regional Park (1B)
+
+Sri Aurobindo Hospital 
+Bhawarsala Square
+Sanwer Industrial Area
+Ganesh Sham Colony
+Banganga
+Laxmibai Nagar Square
+Mara Mata Square
+Imli Bazar Chowk
+Rajwada Palace
+Collectorate Office
+Central Excise
+Choithram, Regional Park
+
+Indore Metro Line-2:
+Dewas Naka
+Niranjanpur Circle
+Aranya Nagar
+IDA Park
+Vijay Nagar Sqaure
+Bhamori
+Patna Pura/St Joseph Church
+Malwa Mil Square
+Raj Kumar Bridge
+Indore Railway Station
+Juni Indore
+Collectorate Office
+Mhow Naka
+Dusshera Maidan
+Ananpurna Temple
+Narmada Public School
+Rajendra Nagar
